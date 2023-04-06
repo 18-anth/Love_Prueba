@@ -1,0 +1,11 @@
+{
+  "name": "reproductor_javascript",
+  "version": "1.0.0",
+  "description": "Reproductor",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index.html"
+  },
+  "author": "ANTHONY CORDOVA",
+  "license": "ISC"
+}
